@@ -1,1 +1,1 @@
-# Information_Retrevial_Clustering_Project
+### CS 5500 : Managing Software Development
