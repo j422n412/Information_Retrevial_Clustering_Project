@@ -1,1 +1,1 @@
-### CS 5500 : Managing Software Development
+## CS 5500 : Managing Software Development
