@@ -12,12 +12,13 @@ Professor: Ed Katz  <br>
 * Component-based software development methods and architecture
 * Languages for describing software processes
 
-This is a reportory for homework submission.
+#### Required Text
+* Pressman, R., Software Engineering A Practitioner's Approach, Eighth Edition. 
+* Fowler, M., Refactoring: Improving the Design of Existing Code. 
+
 #### Please see details on home page: 
 <https://course.ccs.neu.edu/cs5500/>
 
 
 
-#### REQUIRED TEXTS
-* Pressman, R., Software Engineering A Practitioner's Approach, Eighth Edition. <br> 
-* Fowler, M., Refactoring: Improving the Design of Existing Code. <br> 
+
